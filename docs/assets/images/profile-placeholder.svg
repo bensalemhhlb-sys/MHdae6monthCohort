@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720">
+  <rect width="720" height="720" fill="#f2f2f2"/>
+  <circle cx="360" cy="270" r="120" fill="#c8c8c8"/>
+  <path d="M140 650c20-150 105-230 220-230s200 80 220 230" fill="#c8c8c8"/>
+  <text x="360" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#555">REPLACE WITH PROFESSIONAL HEADSHOT</text>
+</svg>
