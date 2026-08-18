@@ -20,37 +20,10 @@ title: Projects
 
 # Projects
 
-Choose **2–3 of your strongest projects** for the finished portfolio.
+I am currently working on building a portfolio of cybersecurity projects. This section will be updated soon with detailed case studies, including repository links and live demos.
 
-## [PROJECT 1 NAME]
-
-![Project 1 image placeholder]({{ '/assets/images/project-placeholder.svg' | relative_url }})
-
-[PROJECT 1 DESCRIPTION]
-
-- **Repository:** [PROJECT 1 GITHUB URL]
-- **Live demo:** [PROJECT 1 LIVE URL, IF APPLICABLE]
-- **What I contributed:** [YOUR CONTRIBUTION]
-- **Tools/technologies:** [TOOLS OR TECHNOLOGIES]
-
-## [PROJECT 2 NAME]
-
-![Project 2 image placeholder]({{ '/assets/images/project-placeholder.svg' | relative_url }})
-
-[PROJECT 2 DESCRIPTION]
-
-- **Repository:** [PROJECT 2 GITHUB URL]
-- **Live demo:** [PROJECT 2 LIVE URL, IF APPLICABLE]
-- **What I contributed:** [YOUR CONTRIBUTION]
-- **Tools/technologies:** [TOOLS OR TECHNOLOGIES]
-
-## [PROJECT 3 NAME]
-
-![Project 3 image placeholder]({{ '/assets/images/project-placeholder.svg' | relative_url }})
-
-[PROJECT 3 DESCRIPTION]
-
-- **Repository:** [PROJECT 3 GITHUB URL]
-- **Live demo:** [PROJECT 3 LIVE URL, IF APPLICABLE]
-- **What I contributed:** [YOUR CONTRIBUTION]
-- **Tools/technologies:** [TOOLS OR TECHNOLOGIES]
+Stay tuned for projects focusing on:
+- Network traffic analysis
+- Security control implementation
+- Vulnerability assessments
+- Incident response simulations

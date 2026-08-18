@@ -18,56 +18,35 @@ title: Home
 </nav>
 
 
-# [YOUR FULL NAME]
+# Mostafa Hirch
 
-**Graduation:** [YOUR GRADUATION DATE]
+**Graduation:** December 2026
 
 ![Professional headshot placeholder]({{ '/assets/images/profile-placeholder.svg' | relative_url }})
 
 ## About Me
 
-[Write a short personal introduction here. Include your interests, values, and aspirations. Do not leave this placeholder in the final portfolio.]
+I am an aspiring Cybersecurity Analyst with a background in biology and extensive experience in customer service and retail. Currently undergoing a career transition, I am pursuing a Cybersecurity certification at DAE to pivot into network security. I have practical experience in cabling, networking devices, and classroom management, and I am driven by a strong desire to secure and improve network defenses.
 
 ## Career Aspirations
 
-**Preferred role(s):** [YOUR PREFERRED ROLE(S)]
+**Preferred role(s):** Network Cybersecurity Analyst
 
-**Ideal work environment:** [DESCRIBE THE WORK ENVIRONMENT YOU ARE LOOKING FOR]
+**Ideal work environment:** An environment where I can monitor and secure network infrastructure, analyze network traffic, manage security controls, investigate network-based threats, and improve network defenses.
 
-**Ideal job:** [DESCRIBE YOUR IDEAL JOB]
+**Ideal job:** A role focused on network infrastructure security and proactive threat investigation.
 
-**Ideal team:** [DESCRIBE THE KIND OF TEAM YOU WANT TO WORK WITH]
+**Ideal team:** A collaborative and technical team focused on continuous improvement of security postures.
 
-**Future goals:** [DESCRIBE YOUR FUTURE CAREER GOALS]
+**Future goals:** Cybersecurity Engineer
 
 ## Featured Projects
 
-### [PROJECT 1 NAME]
-
-![Project 1 image placeholder]({{ '/assets/images/project-placeholder.svg' | relative_url }})
-
-[PROJECT 1 DESCRIPTION]
-
-[Project repository or live demo](#)
-
-### [PROJECT 2 NAME]
-
-![Project 2 image placeholder]({{ '/assets/images/project-placeholder.svg' | relative_url }})
-
-[PROJECT 2 DESCRIPTION]
-
-[Project repository or live demo](#)
-
-### [PROJECT 3 NAME]
-
-![Project 3 image placeholder]({{ '/assets/images/project-placeholder.svg' | relative_url }})
-
-[PROJECT 3 DESCRIPTION]
-
-[Project repository or live demo](#)
+[I will update this section with your projects as you provide them.]
 
 ## Contact
 
-- **Email:** [YOUR EMAIL]
-- **LinkedIn:** [YOUR LINKEDIN URL]
-- **GitHub:** [YOUR GITHUB URL]
+- **Email:** mostafaofhh@gmail.com
+- **LinkedIn:** [mostafa-hirch-2a5022284](https://www.linkedin.com/in/mostafa-hirch-2a5022284)
+- **GitHub:** [Mostafa Hirch](https://github.com/)
+- **Resume:** [Download Profile PDF]({{ '/assets/files/Profile.pdf' | relative_url }})

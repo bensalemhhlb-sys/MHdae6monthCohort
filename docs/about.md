@@ -22,20 +22,30 @@ title: About
 
 ![Professional headshot placeholder]({{ '/assets/images/profile-placeholder.svg' | relative_url }})
 
-## [YOUR FULL NAME]
+## Mostafa Hirch
 
-**Graduation:** [YOUR GRADUATION DATE]
+**Graduation:** December 2026
 
-[Expand your About Me section here. Include your interests, values, background, and aspirations.]
+I am a career changer transitioning from a background in Biology and retail customer service into the field of Cybersecurity. Currently, I am earning a Cybersecurity Certification at DAE (expected December 2026) to build upon my existing technical interests and professional experience.
+
+### Professional Experience
+- **Home Depot (2024 - Present):** Retail Salesperson focused on customer service, order fulfillment, and auditing.
+- **Networking & Technical Skills:** Experience in cabling and networking devices, including installing and replacing switches, routers, and wireless access points.
+- **Education:** Substitute teaching experience in middle and high schools, implementing lesson plans and managing classroom environments.
+
+### Education
+- **DAE:** Certification, Cybersecurity (June 2026 - December 2026)
+- **M. Ismail:** BA in Biology (1990 - 1995)
+- **M. Ismail:** High School Diploma, Natural Sciences (1986 - 1989)
 
 ## Career Direction
 
-**Preferred role(s):** [YOUR PREFERRED ROLE(S)]
+**Preferred role(s):** Network Cybersecurity Analyst
 
-**Work environment:** [YOUR PREFERRED WORK ENVIRONMENT]
+**Work environment:** A professional setting focused on monitoring and securing network infrastructure, analyzing traffic, and improving defense systems.
 
-**Ideal job description:** [YOUR IDEAL JOB DESCRIPTION]
+**Ideal job description:** A role that allows me to manage security controls, investigate network-based threats, and actively contribute to securing organizational data.
 
-**Team:** [THE KIND OF TEAM YOU WANT TO WORK WITH]
+**Team:** A proactive, collaborative team that values technical expertise and continuous security monitoring.
 
-**Future goals:** [YOUR FUTURE GOALS]
+**Future goals:** Cybersecurity Engineer
