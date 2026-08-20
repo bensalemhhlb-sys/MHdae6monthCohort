@@ -20,7 +20,7 @@ title: About
 
 # About Me
 
-![Professional headshot placeholder]({{ '/assets/images/profile-placeholder.svg' | relative_url }})
+![Mostafa Hirch Headshot]({{ '/assets/images/photo.png' | relative_url }})
 
 ## Mostafa Hirch
 
