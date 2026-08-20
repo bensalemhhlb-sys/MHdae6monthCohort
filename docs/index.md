@@ -49,4 +49,4 @@ I am an aspiring Cybersecurity Analyst with a background in biology and extensiv
 - **Email:** mostafaofhh@gmail.com
 - **LinkedIn:** [mostafa-hirch-2a5022284](https://www.linkedin.com/in/mostafa-hirch-2a5022284)
 - **GitHub:** [Mostafa Hirch](https://github.com/)
-- **Resume:** [Download Profile PDF]({{ '/assets/files/Profile.pdf' | relative_url }})
+- **Resume:** [Download Resume (Word)]({{ '/assets/files/current_resume.docx' | relative_url }})
