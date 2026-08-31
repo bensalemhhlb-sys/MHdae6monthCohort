@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f2f2f2"/>
+  <rect x="150" y="115" width="900" height="390" rx="18" fill="#d5d5d5"/>
+  <circle cx="320" cy="285" r="65" fill="#bcbcbc"/>
+  <path d="M220 455l205-180 145 125 135-105 275 160z" fill="#adadad"/>
+  <text x="600" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#555">REPLACE WITH PROJECT IMAGE</text>
+</svg>

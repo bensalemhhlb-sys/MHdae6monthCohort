@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Portfolio-specific additions only. The official theme provides the visual design. */
+.dae-brand {
+  margin: 0 0 1.25rem;
+}
+
+.dae-brand img {
+  display: block;
+  width: min(180px, 42%);
+  height: auto;
+}
+
+.portfolio-nav {
+  margin: 0 0 2rem;
+  padding: .75rem 0;
+  line-height: 1.8;
+}
+
+.portfolio-nav a {
+  white-space: nowrap;
+}
+
+img[alt="Professional headshot placeholder"] {
+  display: block;
+  max-width: 280px;
+  width: 100%;
+  height: auto;
+}
+
+img[alt^="Project "] {
+  display: block;
+  max-width: 760px;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .dae-brand img {
+    width: 55%;
+    max-width: 150px;
+  }
+
+  .portfolio-nav {
+    line-height: 2;
+  }
+}
