@@ -3,48 +3,146 @@
 
 @import "{{ site.theme }}";
 
-/* Portfolio-specific additions only. The official theme provides the visual design. */
+/* Chirpy-inspired Minimalist Styles */
+
+:root {
+  --body-bg: #ffffff;
+  --text-color: #343434;
+  --heading-color: #1a1a1a;
+  --link-color: #007bff;
+  --link-hover-color: #0056b3;
+  --blockquote-bg: #f8f9fa;
+  --blockquote-border: #dee2e6;
+  --code-bg: #f6f8fa;
+  --border-color: #ececec;
+  --font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+body {
+  font-family: var(--font-main);
+  color: var(--text-color);
+  line-height: 1.6;
+  background-color: var(--body-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 0.5rem 1rem;
+  color: #6c757d;
+  background-color: var(--blockquote-bg);
+  border-left: 0.25rem solid var(--blockquote-border);
+  border-radius: 0.25rem;
+}
+
+code {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: var(--code-bg);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 85%;
+}
+
+pre code {
+  display: block;
+  padding: 1rem;
+  overflow-x: auto;
+  font-size: 90%;
+}
+
+/* Portfolio-specific adjustments */
+
+.wrapper {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
 .dae-brand {
-  margin: 0 0 1.25rem;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .dae-brand img {
-  display: block;
-  width: min(180px, 42%);
+  display: inline-block;
+  max-width: 150px;
   height: auto;
+  border-radius: 8px;
 }
 
 .portfolio-nav {
-  margin: 0 0 2rem;
-  padding: .75rem 0;
-  line-height: 1.8;
+  margin: 2rem 0;
+  padding: 1rem 0;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  text-align: center;
+  font-size: 0.95rem;
 }
 
 .portfolio-nav a {
-  white-space: nowrap;
+  margin: 0 0.75rem;
+  font-weight: 500;
+  color: #555;
 }
 
-img[alt="Professional headshot placeholder"] {
+.portfolio-nav a:hover {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+img[alt="Mostafa Hirch Headshot"] {
   display: block;
-  max-width: 280px;
+  max-width: 250px;
   width: 100%;
   height: auto;
+  border-radius: 50%;
+  margin: 2rem auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
 img[alt^="Project "] {
   display: block;
-  max-width: 760px;
-  width: 100%;
+  max-width: 100%;
   height: auto;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border: 1px solid var(--border-color);
+}
+
+footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85rem;
+  color: #777;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
-  .dae-brand img {
-    width: 55%;
-    max-width: 150px;
+  .wrapper {
+    padding: 1rem;
   }
-
-  .portfolio-nav {
-    line-height: 2;
+  
+  .portfolio-nav a {
+    display: block;
+    margin: 0.5rem 0;
   }
 }

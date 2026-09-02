@@ -26,3 +26,12 @@ Markdown can help me:
 
 
 I used the [Visual Studio Code Markdown docummentation] (http://code.visualstudio.com/docs/languages/markdown).
+
+## code Example
+```python
+print("Hello, Markdown!")
+
+Relection
+Markdown lets me write readable plain text and preview |
+
+<span style="color: rbg(0,0,0)"> Hello ace!<span>

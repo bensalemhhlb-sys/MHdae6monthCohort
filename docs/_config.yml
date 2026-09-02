@@ -1,5 +1,8 @@
 title: "Mostafa Hirch | Cybersecurity Professional"
 description: "Portfolio of Mostafa Hirch, an aspiring Cybersecurity Analyst focusing on network infrastructure and security controls."
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 baseurl: "/MHdae6monthCohort"
-show_downloads: false 
+show_downloads: false
+google_analytics: 
+lang: en
+timezone: America/New_York 
