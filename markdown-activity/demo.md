@@ -34,4 +34,3 @@ print("Hello, Markdown!")
 Relection
 Markdown lets me write readable plain text and preview |
 
-<span style="color: rbg(0,0,0)"> Hello ace!<span>

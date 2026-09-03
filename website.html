@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <!-- ── Security Meta Headers ── -->
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self'; script-src 'self' 'unsafe-inline' https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none';" />
+  <meta http-equiv="X-Frame-Options" content="DENY" />
+  <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+  <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=(), camera=()" />
+  <meta name="robots" content="index, follow" />
+
+  <title>Zombie Dev — Secure. Develop. Protect.</title>
+  <meta name="description" content="Cyber security and web development services. Building secure web solutions and protecting what matters." />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Share+Tech+Mono&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="styles.css" rel="stylesheet">
+  
+</head>
+<body>
+
+<!-- ════════════════════ NAVIGATION ════════════════════ -->
+<nav id="navbar">
+  <a href="#home" class="nav-logo" aria-label="Zombie Dev Home">
+    <div class="nav-logo-icon">🛡️</div>
+    <div class="nav-logo-text">
+      <strong>ZOMBIE <span>DEV</span></strong>
+      <small>SECURE. DEVELOP. PROTECT.</small>
+    </div>
+  </a>
+
+  <ul class="nav-links" role="navigation" aria-label="Primary navigation">
+    <li><a href="#home" class="active">Home</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+  <a href="#contact" class="nav-cta">Get In Touch</a>
+
+  <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- Mobile Nav -->
+<div class="mobile-nav" id="mobileNav" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+  <a href="#home"      onclick="closeMenu()">Home</a>
+  <a href="#services"  onclick="closeMenu()">Services</a>
+  <a href="#experience" onclick="closeMenu()">Experience</a>
+  <a href="#about"     onclick="closeMenu()">About</a>
+  <a href="#contact"   onclick="closeMenu()">Contact</a>
+  <a href="#contact"   class="mobile-cta" onclick="closeMenu()">Get In Touch</a>
+</div>
+
+<!-- ════════════════════ HERO ════════════════════ -->
+<section class="hero" id="home">
+  <div class="hero-content">
+    <div class="security-badge">
+      <div class="badge-dot"></div>
+      AVAILABLE FOR PROJECTS
+    </div>
+    <div class="hero-eyebrow">Cyber Security &amp; Web Development</div>
+    <h1>
+      Building Secure
+      <span>Web Solutions.</span>
+      Protecting What Matters.
+    </h1>
+    <p>
+      I help businesses and individuals build modern websites and secure their digital assets through ethical hacking, network analysis, and smart solutions.
+    </p>
+    <div class="hero-btns">
+      <a href="#services" class="btn-primary">View My Work &nbsp;↗</a>
+      <a href="#contact"  class="btn-outline">Contact Me &nbsp;💬</a>
+    </div>
+    <div class="hero-features">
+      <div class="hero-feat">
+        <div class="hero-feat-icon">🛡️</div>
+        <div>
+          <h4>Creativity First</h4>
+          <p>Being creative is my priority</p>
+        </div>
+      </div>
+      <div class="hero-feat">
+        <div class="hero-feat-icon">&lt;/&gt;</div>
+        <div>
+          <h4>Clean Code</h4>
+          <p>Modern, efficient and scalable</p>
+        </div>
+      </div>
+      <div class="hero-feat">
+        <div class="hero-feat-icon">👤</div>
+        <div>
+          <h4>Client Focused</h4>
+          <p>Solutions tailored to your needs</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero-visual">
+    <div class="shield-wrapper">
+      <div class="shield-ring"></div>
+      <div class="shield-ring"></div>
+      <div class="shield-ring"></div>
+      <div class="shield-core">
+        <div class="shield-icon">🔒</div>
+      </div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════ SERVICES ════════════════════ -->
+<section class="services" id="services">
+  <div class="section-eyebrow">What I Offer</div>
+  <h2 class="section-title">Services That Solve Real Problems</h2>
+  <div class="section-divider"></div>
+
+  <div class="services-grid">
+    <div class="service-card fade-in">
+      <div class="service-icon icon-blue">&lt;/&gt;</div>
+      <h3>Web Development</h3>
+      <p>I build fast, responsive, and modern websites tailored to your goals.</p>
+      <ul class="service-list">
+        <li>Frontend Development</li>
+        <li>Backend Development</li>
+        <li>Responsive Design</li>
+        <li>Website Maintenance</li>
+      </ul>
+    </div>
+
+    <div class="service-card fade-in">
+      <div class="service-icon icon-cyan">🛡️</div>
+      <h3>Cyber Security</h3>
+      <p>I help identify vulnerabilities and strengthen your systems.</p>
+      <ul class="service-list">
+        <li>Network Analysis</li>
+        <li>Vulnerability Scanning</li>
+        <li>Security Assessments</li>
+        <li>Best Practice Guidance</li>
+      </ul>
+    </div>
+
+    <div class="service-card fade-in">
+      <div class="service-icon icon-purple">🔍</div>
+      <h3>Security Testing Tools</h3>
+      <p>Using industry-standard tools to analyze and secure networks.</p>
+      <ul class="service-list">
+        <li>Wireshark – Traffic Analysis</li>
+        <li>Nmap – Network Scanning</li>
+        <li>Burp Suite – Web App Testing</li>
+        <li>Request &amp; Traffic Analysis</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════ TOOLS ════════════════════ -->
+<section class="tools">
+  <div class="tools-bar">
+    <div class="tools-label">── TOOLS &amp; TECHNOLOGIES ──</div>
+    <div class="tools-track-wrap">
+      <div class="tools-track" id="toolsTrack">
+        <!-- First set -->
+        <div class="tool-item"><span class="tool-emoji">🦈</span> Wireshark</div>
+        <div class="tool-item"><span class="tool-emoji">👁️</span> Nmap</div>
+        <div class="tool-item"><span class="tool-emoji">⚡</span> Burp Suite</div>
+        <div class="tool-item"><span class="tool-emoji">🐍</span> Python</div>
+        <div class="tool-item"><span class="tool-emoji">🤖</span> Google AI</div>
+        <div class="tool-item"><span class="tool-emoji">💙</span> VS Code</div>
+        <div class="tool-item"><span class="tool-emoji">🐙</span> GitHub</div>
+        <div class="tool-item"><span class="tool-emoji">🌐</span> HTML/CSS</div>
+        <div class="tool-item"><span class="tool-emoji">⚙️</span> JavaScript</div>
+        <div class="tool-item"><span class="tool-emoji">🔐</span> Tryhackme</div>
+        <!-- Duplicate for seamless loop -->
+        <div class="tool-item"><span class="tool-emoji">🦈</span> Wireshark</div>
+        <div class="tool-item"><span class="tool-emoji">👁️</span> Nmap</div>
+        <div class="tool-item"><span class="tool-emoji">⚡</span> Burp Suite</div>
+        <div class="tool-item"><span class="tool-emoji">🐍</span> Python</div>
+        <div class="tool-item"><span class="tool-emoji">🤖</span> Google AI</div>
+        <div class="tool-item"><span class="tool-emoji">💙</span> VS Code</div>
+        <div class="tool-item"><span class="tool-emoji">🐙</span> GitHub</div>
+        <div class="tool-item"><span class="tool-emoji">🌐</span> HTML/CSS</div>
+        <div class="tool-item"><span class="tool-emoji">⚙️</span> JavaScript</div>
+        <div class="tool-item"><span class="tool-emoji">🔐</span> HackTheBox</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════ ABOUT ════════════════════ -->
+<section class="about" id="about">
+  <div class="about-text fade-in">
+    <div class="about-eyebrow">About Me</div>
+    <h2>Passionate About Creativity.<br>Focused on Solutions.</h2>
+    <div class="about-divider"></div>
+    <p>
+      I have experience in Introduction to Coding (DAE), network analysis, and cybersecurity tools. I enjoy solving problems, learning new technologies, and building secure, user-friendly applications.
+    </p>
+    <ul class="about-list">
+      <li>Introduction to Coding</li>
+      <li>DAE (Introduction to Coding Course)</li>
+      <li>Experience with Wireshark, Nmap &amp; Burp Suite</li>
+      <li>Google AI Prompt Engineering Coursera </li>
+    </ul>
+  </div>
+
+  <div class="about-visual fade-in">
+    <div class="about-visual-bg">
+      <div class="about-hacker-art code-lines" id="terminalOutput" aria-hidden="true"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════ VRC /WORK EXPERIENCE ════════════════════ -->
+<section class="experience" id="experience">
+  <div class="section-eyebrow">Remote Work Experience</div>
+  <h2 class="section-title">Where Creativity Meets Cybersecurity</h2>
+  <div class="section-divider"></div>
+
+  <div class="vrc-grid">
+
+    <!-- LEFT: main VRC card -->
+    <div class="vrc-card fade-in">
+      <div class="vrc-logo-row">
+        <div class="vrc-logo-box">🎬</div>
+        <div>
+          <div class="vrc-org-name">Very Rare Cinema</div>
+          <div class="vrc-org-sub">VRC — FILM · MEDIA · PRODUCTION</div>
+        </div>
+      </div>
+
+      <div class="vrc-badge-row">
+        <span class="vrc-badge badge-remote">REMOTE</span>
+        <span class="vrc-badge badge-contract">FREELANCE / CONTRACT</span>
+        <span class="vrc-badge badge-active">
+          <span style="width:6px;height:6px;background:var(--accent-green);border-radius:50%;box-shadow:0 0 6px var(--accent-green);display:inline-block;"></span>
+          ACTIVE
+        </span>
+      </div>
+
+      <p class="vrc-desc">
+        Very Rare Cinema is an independent film and media production company with a
+        fully remote operational model. As an artist who has worked alongside them, digital security
+        consultant, I build and maintain other independent online infrastructure behind my
+        brand — from content platforms to internal tooling — while ensuring my
+        digital assets are protected against modern threats. The nature of film production
+        demands tight deadlines, creative collaboration, and absolute data integrity,
+        all of which I work alongside AI remotely.
+      </p>
+
+      <ul class="vrc-responsibilities">
+        <li>Consultation with Very Rare Cinema's secure web presence. </li>
+        <li> Created indepedent web properties to protect sensitive production files for myself and unreleased content of my own.</li>
+        <li>Collaborated remotely with the VRC creative team via encrypted channels. </li>
+        <li>Built and maintained automated workflows inside independent projects. </li>
+      </ul>
+
+      <a href="tel:+13045683542" class="vrc-contact-row">
+        <div class="vrc-contact-icon">📞</div>
+        <div>
+          <div class="vrc-contact-label">VERY RARE CINEMA — DIRECT LINE</div>
+          <div class="vrc-contact-val">304-568-3542</div>
+        </div>
+      </a>
+    </div>
+
+    <!-- RIGHT: stats + timeline + skills -->
+    <div class="vrc-highlights fade-in">
+
+      <div class="vrc-highlights-title">── VRC ENGAGEMENT AT A GLANCE</div>
+
+      <div class="vrc-stat-grid">
+        <div class="vrc-stat">
+          <div class="vrc-stat-num">100%</div>
+          <div class="vrc-stat-label">REMOTE DELIVERY</div>
+        </div>
+        <div class="vrc-stat">
+          <div class="vrc-stat-num">24/7</div>
+          <div class="vrc-stat-label">ON-CALL SUPPORT</div>
+        </div>
+        <div class="vrc-stat">
+          <div class="vrc-stat-num">0</div>
+          <div class="vrc-stat-label">PRODUCTION LEAKS</div>
+        </div>
+        <div class="vrc-stat">
+          <div class="vrc-stat-num">SSL</div>
+          <div class="vrc-stat-label">ALL ASSETS ENCRYPTED</div>
+        </div>
+      </div>
+
+      <div class="vrc-highlights-title" style="margin-top:8px;">── HOW I SUPPORT VRC REMOTELY</div>
+      <div class="vrc-timeline">
+        <div class="vrc-tl-item">
+          <div class="vrc-tl-dot">🎬</div>
+          <div class="vrc-tl-body">
+            <div class="vrc-tl-title">PROJECT KICKOFF</div>
+            <div class="vrc-tl-text">Remote briefing with the Very Rare Cinema team to scope the web build or security engagement — aligned to their production timeline.</div>
+          </div>
+        </div>
+        <div class="vrc-tl-item">
+          <div class="vrc-tl-dot">🛡️</div>
+          <div class="vrc-tl-body">
+            <div class="vrc-tl-title">SECURE BUILD &amp; HARDENING</div>
+            <div class="vrc-tl-text">Development and security hardening of VRC's web properties — CSP, SSL, input validation, and access controls applied from day one.</div>
+          </div>
+        </div>
+        <div class="vrc-tl-item">
+          <div class="vrc-tl-dot">🎞️</div>
+          <div class="vrc-tl-body">
+            <div class="vrc-tl-title">CONTENT &amp; ASSET PROTECTION</div>
+            <div class="vrc-tl-text">Unreleased film assets secured behind encrypted transfer protocols and access-gated portals — preventing leaks before distribution.</div>
+          </div>
+        </div>
+        <div class="vrc-tl-item">
+          <div class="vrc-tl-dot">✅</div>
+          <div class="vrc-tl-body">
+            <div class="vrc-tl-title">ONGOING REMOTE SUPPORT</div>
+            <div class="vrc-tl-text">Continuous monitoring, patching, and updates available as Very Rare Cinema grows. Reach the team directly at <strong style="color:var(--accent-blue)">304-568-3542</strong>.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="vrc-highlights-title" style="margin-top:8px;">── SKILLS APPLIED AT VRC</div>
+      <div class="vrc-skills">
+        <span class="vrc-skill-tag">Web Development</span>
+        <span class="vrc-skill-tag">SSL / TLS</span>
+        <span class="vrc-skill-tag">Content Security Policy</span>
+        <span class="vrc-skill-tag">Burp Suite</span>
+        <span class="vrc-skill-tag">Nmap</span>
+        <span class="vrc-skill-tag">Secure File Transfer</span>
+        <span class="vrc-skill-tag">Remote Collaboration</span>
+        <span class="vrc-skill-tag">Media Asset Security</span>
+        <span class="vrc-skill-tag">Async Workflows</span>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════ CONTACT ════════════════════ -->
+<section class="contact" id="contact">
+  <div class="contact-grid">
+    <div class="contact-info fade-in">
+      <h2>GET IN TOUCH</h2>
+      <h3>Let's Work Together</h3>
+      <div class="contact-divider"></div>
+
+      <div class="contact-items">
+        <a href="mailto:mekgizombie@gmail.com" class="contact-item">
+          <div class="ci-icon">✉️</div>
+          <div>
+            <div class="ci-label">EMAIL</div>
+            <div class="ci-value">mekgizombie@gmail.com</div>
+          </div>
+        </a>
+        <a href="tel:+12035079077" class="contact-item">
+          <div class="ci-icon">📞</div>
+          <div>
+            <div class="ci-label">PHONE</div>
+            <div class="ci-value">203-507-9077</div>
+          </div>
+        </a>
+        <a href="https://github.com/zombiehotmail" target="_blank" rel="noopener noreferrer" class="contact-item">
+          <div class="ci-icon">🐙</div>
+          <div>
+            <div class="ci-label">GITHUB</div>
+            <div class="ci-value">zombiehotmail</div>
+          </div>
+        </a>
+        <div class="contact-item">
+          <div class="ci-icon">📍</div>
+          <div>
+            <div class="ci-label">LOCATION</div>
+            <div class="ci-value">Available Worldwide</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── CONTACT FORM ── -->
+    <div class="contact-form-wrap fade-in">
+      <form id="contactForm" novalidate autocomplete="on">
+        <!-- Honeypot (hidden from real users, bots fill it) -->
+        <input class="hp-field" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+        <!-- CSRF-like token -->
+        <input type="hidden" name="_token" id="csrfToken" />
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="fname">YOUR NAME *</label>
+            <input type="text" id="fname" name="name" placeholder="John Doe"
+              required minlength="2" maxlength="100"
+              autocomplete="name"
+              pattern="[A-Za-z\s\-']+"
+              aria-required="true" />
+            <div class="form-error" id="fnameErr">Please enter a valid name.</div>
+          </div>
+          <div class="form-group">
+            <label for="femail">YOUR EMAIL *</label>
+            <input type="email" id="femail" name="email" placeholder="you@example.com"
+              required maxlength="254"
+              autocomplete="email"
+              aria-required="true" />
+            <div class="form-error" id="femailErr">Please enter a valid email address.</div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="fsubject">SUBJECT *</label>
+          <input type="text" id="fsubject" name="subject" placeholder="Project inquiry…"
+            required minlength="3" maxlength="150"
+            aria-required="true" />
+          <div class="form-error" id="fsubjectErr">Please enter a subject.</div>
+        </div>
+
+        <div class="form-group">
+          <label for="fmessage">YOUR MESSAGE *</label>
+          <textarea id="fmessage" name="message" placeholder="Tell me about your project…"
+            required minlength="10" maxlength="2000"
+            aria-required="true"></textarea>
+          <div class="form-error" id="fmessageErr">Please enter a message (min 10 characters).</div>
+        </div>
+
+        <div id="formSuccess" class="form-success" role="alert">
+          <div class="fs-icon">✅</div>
+          <h4>MESSAGE SENT!</h4>
+          <p>Thanks for reaching out. I'll get back to you shortly.</p>
+        </div>
+
+        <button type="submit" class="submit-btn" id="submitBtn">
+          <div class="spinner" id="spinner"></div>
+          <span id="btnText">SEND MESSAGE &nbsp;➤</span>
+        </button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════ FOOTER ════════════════════ -->
+<footer>
+  <div class="footer-grid">
+    <a href="mailto:mekgizombie@gmail.com" class="footer-item">
+      <div class="fi-icon">✉️</div>
+      <div class="fi-label">EMAIL</div>
+      <div class="fi-value">mekgizombie@gmail.com</div>
+    </a>
+    <a href="tel:+12035079077" class="footer-item">
+      <div class="fi-icon">📞</div>
+      <div class="fi-label">PHONE</div>
+      <div class="fi-value">203-507-9077</div>
+    </a>
+    <a href="https://github.com/zombiehotmail" target="_blank" rel="noopener noreferrer" class="footer-item">
+      <div class="fi-icon">🐙</div>
+      <div class="fi-label">GITHUB</div>
+      <div class="fi-value">zombiehotmail</div>
+    </a>
+    <div class="footer-item">
+      <div class="fi-icon">🌍</div>
+      <div class="fi-label">LOCATION</div>
+      <div class="fi-value">Available Worldwide</div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    © 2024 <a href="#home">Zombie Dev</a>. All rights reserved. &nbsp;|&nbsp;
+    <span style="color:var(--accent-green)">⬡ SECURE CONNECTION</span>
+  </div>
+</footer>
+
+<!-- ════════════════════ FLOATING BUTTONS ════════════════════ -->
+<div class="float-group" role="complementary" aria-label="Quick actions">
+  <div class="float-actions" id="floatActions">
+    <a href="mailto:mekgizombie@gmail.com" class="float-btn email">✉️ Email Me</a>
+    <a href="https://github.com/zombiehotmail" target="_blank" rel="noopener noreferrer" class="float-btn github">🐙 GitHub</a>
+    <a href="#contact" class="float-btn top" onclick="closeFloat()">💬 Contact</a>
+  </div>
+  <button class="float-toggle" id="floatToggle" aria-label="Toggle quick actions" aria-expanded="false">
+    <span class="icon-open">⚡</span>
+    <span class="icon-close">✕</span>
+  </button>
+</div>
+
+<a href="#home" class="back-top-standalone" id="backTop" aria-label="Back to top">↑</a>
+
+<!-- Toast notification -->
+<div class="toast" id="toast" role="status" aria-live="polite">
+  <span class="toast-icon" id="toastIcon"></span>
+  <span id="toastMsg"></span>
+</div>
+
+<!-- ════════════════════════════════════════
+     JAVASCRIPT — SECURITY-HARDENED
+════════════════════════════════════════ -->
+<script>
+  'use strict';
+
+  /* ── Security: generate a per-session CSRF-like token ── */
+  (function setToken() {
+    const arr = new Uint8Array(20);
+    crypto.getRandomValues(arr);
+    const token = Array.from(arr, b => b.toString(16).padStart(2, '0')).join('');
+    document.getElementById('csrfToken').value = token;
+    sessionStorage.setItem('_zt', token);
+  })();
+
+  /* ── Input sanitizer: strips HTML tags ── */
+  function sanitize(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML
+      .replace(/&amp;/g, '&')
+      .trim()
+      .slice(0, 2000);
+  }
+
+  /* ── Rate limiting: max 3 submissions per 10 min ── */
+  const RATE_KEY = 'zd_sub_times';
+  function checkRateLimit() {
+    const now = Date.now();
+    const window = 10 * 60 * 1000; // 10 minutes
+    let times = JSON.parse(sessionStorage.getItem(RATE_KEY) || '[]');
+    times = times.filter(t => now - t < window);
+    if (times.length >= 3) return false;
+    times.push(now);
+    sessionStorage.setItem(RATE_KEY, JSON.stringify(times));
+    return true;
+  }
+
+  /* ── Toast ── */
+  function showToast(msg, icon = '✅') {
+    const t = document.getElementById('toast');
+    document.getElementById('toastMsg').textContent = sanitize(msg);
+    document.getElementById('toastIcon').textContent = icon;
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 4000);
+  }
+
+  /* ── Nav scroll ── */
+  const navbar = document.getElementById('navbar');
+  const backTop = document.getElementById('backTop');
+  window.addEventListener('scroll', () => {
+    const scrolled = window.scrollY > 60;
+    navbar.classList.toggle('scrolled', scrolled);
+    backTop.classList.toggle('visible', window.scrollY > 300);
+  }, { passive: true });
+
+  /* ── Active nav link on scroll ── */
+  const sections = document.querySelectorAll('section[id]');
+  const navLinks = document.querySelectorAll('.nav-links a');
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        navLinks.forEach(a => a.classList.remove('active'));
+        const active = document.querySelector(`.nav-links a[href="#${e.target.id}"]`);
+        if (active) active.classList.add('active');
+      }
+    });
+  }, { threshold: 0.4 });
+  sections.forEach(s => observer.observe(s));
+
+  /* ── Hamburger / mobile nav ── */
+  const hamburger = document.getElementById('hamburger');
+  const mobileNav  = document.getElementById('mobileNav');
+  hamburger.addEventListener('click', () => {
+    const open = hamburger.classList.toggle('open');
+    mobileNav.classList.toggle('open', open);
+    hamburger.setAttribute('aria-expanded', open);
+    document.body.style.overflow = open ? 'hidden' : '';
+  });
+  function closeMenu() {
+    hamburger.classList.remove('open');
+    mobileNav.classList.remove('open');
+    hamburger.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
+  mobileNav.addEventListener('click', e => { if (e.target === mobileNav) closeMenu(); });
+
+  /* ── Float toggle ── */
+  const floatToggle  = document.getElementById('floatToggle');
+  const floatActions = document.getElementById('floatActions');
+  floatToggle.addEventListener('click', () => {
+    const open = floatActions.classList.toggle('open');
+    floatToggle.classList.toggle('open', open);
+    floatToggle.setAttribute('aria-expanded', open);
+  });
+  function closeFloat() {
+    floatActions.classList.remove('open');
+    floatToggle.classList.remove('open');
+    floatToggle.setAttribute('aria-expanded', 'false');
+  }
+
+  /* ── Fade-in animations ── */
+  const fadeEls = document.querySelectorAll('.fade-in');
+  const fadeObs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        fadeObs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  fadeEls.forEach(el => fadeObs.observe(el));
+
+  /* ── Terminal animation ── */
+  const lines = [
+    '<span>> nmap -sS -p 1-65535 target</span>',
+    '<span style="color:#7a90b0">Starting Nmap 7.94…</span>',
+    '<span>PORT    STATE  SERVICE</span>',
+    '<span style="color:#00ffd5">80/tcp  open   http</span>',
+    '<span style="color:#00ffd5">443/tcp open   https</span>',
+    '<span style="color:#ff4d6d">22/tcp  open   ssh</span>',
+    '',
+    '<span>> python3 scan.py --target host</span>',
+    '<span style="color:#7a90b0">Analyzing traffic patterns…</span>',
+    '<span style="color:#39ff82">[+] No anomalies detected</span>',
+    '<span style="color:#39ff82">[+] Firewall rules: ACTIVE</span>',
+    '<span style="color:#39ff82">[+] SSL/TLS: ENCRYPTED</span>',
+    '',
+    '<span style="color:#0af">> Zombie Dev v2.0 — SECURE</span>',
+  ];
+  const terminal = document.getElementById('terminalOutput');
+  let lineIdx = 0;
+  function nextLine() {
+    if (lineIdx >= lines.length) { lineIdx = 0; terminal.innerHTML = ''; }
+    const span = document.createElement('span');
+    span.style.display = 'block';
+    span.style.marginBottom = '2px';
+    span.innerHTML = lines[lineIdx] || '&nbsp;';
+    terminal.appendChild(span);
+    lineIdx++;
+    setTimeout(nextLine, lineIdx === 1 ? 800 : 300);
+  }
+  setTimeout(nextLine, 500);
+
+  /* ══════════════════════════════
+     FORM — VALIDATION + SECURITY
+  ══════════════════════════════ */
+  const form      = document.getElementById('contactForm');
+  const submitBtn = document.getElementById('submitBtn');
+  const spinner   = document.getElementById('spinner');
+  const btnText   = document.getElementById('btnText');
+  const formSuccess = document.getElementById('formSuccess');
+
+  /* Field configs */
+  const fields = [
+    {
+      id:    'fname',
+      errId: 'fnameErr',
+      validate: v => v.length >= 2 && /^[A-Za-z\s\-']+$/.test(v),
+      msg: 'Please enter a valid name (letters only).'
+    },
+    {
+      id:    'femail',
+      errId: 'femailErr',
+      validate: v => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v) && v.length <= 254,
+      msg: 'Please enter a valid email address.'
+    },
+    {
+      id:    'fsubject',
+      errId: 'fsubjectErr',
+      validate: v => v.length >= 3 && v.length <= 150,
+      msg: 'Subject must be between 3 and 150 characters.'
+    },
+    {
+      id:    'fmessage',
+      errId: 'fmessageErr',
+      validate: v => v.length >= 10 && v.length <= 2000,
+      msg: 'Message must be between 10 and 2000 characters.'
+    },
+  ];
+
+  function validateField(cfg) {
+    const el    = document.getElementById(cfg.id);
+    const errEl = document.getElementById(cfg.errId);
+    const val   = sanitize(el.value);
+    const ok    = cfg.validate(val);
+    el.closest('.form-group').classList.toggle('invalid', !ok);
+    errEl.textContent = cfg.msg;
+    return ok;
+  }
+
+  /* Inline validation on blur */
+  fields.forEach(cfg => {
+    document.getElementById(cfg.id).addEventListener('blur', () => validateField(cfg));
+  });
+
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+
+    /* Honeypot check */
+    if (form.elements['website'].value !== '') return;
+
+    /* CSRF token check */
+    const token = document.getElementById('csrfToken').value;
+    if (!token || token !== sessionStorage.getItem('_zt')) {
+      showToast('Session expired. Please refresh and try again.', '⚠️');
+      return;
+    }
+
+    /* Validate all fields */
+    const allValid = fields.map(validateField).every(Boolean);
+    if (!allValid) {
+      showToast('Please fix the errors above.', '⚠️');
+      return;
+    }
+
+    /* Rate limit */
+    if (!checkRateLimit()) {
+      showToast('Too many submissions. Please wait 10 minutes.', '🚫');
+      return;
+    }
+
+    /* Show loading state */
+    submitBtn.disabled = true;
+    spinner.classList.add('active');
+    btnText.textContent = 'SENDING…';
+
+    /* Simulate async send (replace with real fetch to backend) */
+    await new Promise(r => setTimeout(r, 1800));
+
+    /* Success */
+    spinner.classList.remove('active');
+    form.querySelectorAll('.form-group').forEach(g => g.style.display = 'none');
+    submitBtn.style.display = 'none';
+    formSuccess.style.display = 'block';
+    showToast('Message sent successfully!', '🛡️');
+
+    /* Reset after 6s */
+    setTimeout(() => {
+      form.reset();
+      form.querySelectorAll('.form-group').forEach(g => g.style.display = '');
+      submitBtn.style.display = '';
+      formSuccess.style.display = 'none';
+      submitBtn.disabled = false;
+      btnText.textContent = 'SEND MESSAGE  ➤';
+      /* Refresh CSRF token */
+      const arr = new Uint8Array(20);
+      crypto.getRandomValues(arr);
+      const newToken = Array.from(arr, b => b.toString(16).padStart(2,'0')).join('');
+      document.getElementById('csrfToken').value = newToken;
+      sessionStorage.setItem('_zt', newToken);
+    }, 6000);
+  });
+
+  /* ── Smooth scroll for anchor links ── */
+  document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener('click', e => {
+      const id = a.getAttribute('href').slice(1);
+      const el = document.getElementById(id);
+      if (el) {
+        e.preventDefault();
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+
+  /* ── External link safety ── */
+  document.querySelectorAll('a[target="_blank"]').forEach(a => {
+    if (!a.rel.includes('noopener')) {
+      a.rel = 'noopener noreferrer';
+    }
+  });
+
+</script>
+</body>
+</html>
