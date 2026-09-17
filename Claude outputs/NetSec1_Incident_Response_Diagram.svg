@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1120" role="img" aria-label="Incident response workflow: traffic passes from the Internet through a firewall into the LAN, where PCs, a server, and a laptop generate security logs that a SIEM collects and alerts on; a security administrator investigates and splits the response into contain, remove, and recover actions, which feed into a final review-and-improve step." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozODJiZmY3Mi1mZjI5LTRlN2UtYjJjYi1iNWE2ODMyNTVlNjYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaH4YSxjh7sjEKuDkNZFCfCEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5ZThiZGNhZi0yZDQyLTRhMzctOTE1Mi0yNGU0OTJlZGEyZTZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoDl2kBUwMe3FWFZEvh5T/SgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg0XX35nO61i2kUqJhy6S7FvOk14ZMOR5sMUUCM+IcvRSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaK3ENJJq7kkiiA0Z/f2Zn2wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICK9DthWy2gGLKHqvbMPw4Rf/Szc+tO6uEI9w4xMu4hrZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQHsZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjM4MmJmZjcyLWZmMjktNGU3ZS1iMmNiLWI1YTY4MzI1NWU2Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjgxMmRmNjEwLTAzNTItNDAyYi1hNThkLTE4NTc0OWMwODU3MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDRdffmc7rWLaRSomHLpLsW86TXhkw5HmwxRQIz4hy9FKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnc78r4WbX3cCB59+ejxQDRgct4RJPWfiNmIE4Oaye1aiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg3Iqr9Q3RxiR34jHtu4PuUOTOYFStHfy/Rv8FAeysW+p0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKlK4GRQYPvfoa6aI6peHkw+3onLiUBpTxr9X5F7tttW7SO2ZG1MooQgF8mRm9FcmYJ4CKAz+gQj/GCiVyS4r08=</c2pa:manifest></metadata>
+  <rect x="0" y="0" width="1000" height="1120" fill="white"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1f2937"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="500" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">Responding to a Security Event — Incident Response Workflow</text>
+
+  <!-- Internet -->
+  <rect x="390" y="55" width="220" height="60" rx="8" fill="#eef2f7" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500" y="80" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">INTERNET</text>
+  <text x="500" y="98" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">External Threats</text>
+
+  <line x1="500" y1="115" x2="500" y2="160" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="514" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#111827">external traffic</text>
+
+  <!-- Firewall -->
+  <rect x="380" y="160" width="240" height="65" rx="8" fill="#fde68a" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">FIREWALL / ROUTER</text>
+  <text x="500" y="207" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">Block / Allow Traffic</text>
+
+  <line x1="500" y1="225" x2="500" y2="270" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="514" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#111827">allowed traffic</text>
+
+  <!-- LAN network container -->
+  <rect x="150" y="270" width="700" height="200" rx="10" fill="none" stroke="#6b7280" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="170" y="295" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#374151">LAN NETWORK</text>
+
+  <rect x="270" y="310" width="140" height="50" rx="6" fill="#bfdbfe" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="340" y="340" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">PC 1</text>
+
+  <rect x="590" y="310" width="140" height="50" rx="6" fill="#bfdbfe" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="660" y="340" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">PC 2</text>
+
+  <line x1="340" y1="360" x2="340" y2="398" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="660" y1="360" x2="660" y2="398" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="270" y="400" width="140" height="50" rx="6" fill="#e0e7ff" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="340" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Server</text>
+
+  <rect x="590" y="400" width="140" height="50" rx="6" fill="#e0e7ff" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="660" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Laptop</text>
+
+  <line x1="500" y1="470" x2="500" y2="543" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="514" y="512" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#111827">security events / logs</text>
+
+  <!-- SIEM -->
+  <rect x="370" y="545" width="260" height="100" rx="8" fill="#ddd6fe" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500" y="570" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">SIEM / MONITORING</text>
+  <text x="395" y="591" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Collect Logs</text>
+  <text x="395" y="608" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Detect Threats</text>
+  <text x="395" y="625" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Generate Alerts</text>
+
+  <line x1="500" y1="645" x2="500" y2="688" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="514" y="670" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#111827">security alert</text>
+
+  <!-- Security Administrator -->
+  <rect x="350" y="690" width="300" height="80" rx="8" fill="#fecaca" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500" y="722" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">SECURITY ADMINISTRATOR</text>
+  <text x="500" y="742" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">Analyze &amp; Investigate</text>
+
+  <!-- Branch to three responses -->
+  <line x1="500" y1="770" x2="500" y2="795" stroke="#1f2937" stroke-width="2"/>
+  <line x1="230" y1="795" x2="770" y2="795" stroke="#1f2937" stroke-width="2"/>
+  <line x1="230" y1="795" x2="230" y2="833" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="500" y1="795" x2="500" y2="833" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="770" y1="795" x2="770" y2="833" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Contain -->
+  <rect x="120" y="835" width="220" height="130" rx="8" fill="#fed7aa" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="230" y="862" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">CONTAIN</text>
+  <text x="140" y="885" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Isolate PC</text>
+  <text x="140" y="902" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Block IP</text>
+  <text x="140" y="919" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Disable Account</text>
+
+  <!-- Remove -->
+  <rect x="390" y="835" width="220" height="130" rx="8" fill="#fecaca" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500" y="862" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">REMOVE</text>
+  <text x="410" y="885" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Remove Malware</text>
+  <text x="410" y="902" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Patch Vulnerability</text>
+
+  <!-- Recover -->
+  <rect x="660" y="835" width="220" height="130" rx="8" fill="#bbf7d0" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="770" y="862" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">RECOVER</text>
+  <text x="680" y="885" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Restore Systems</text>
+  <text x="680" y="902" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Monitor Closely</text>
+
+  <!-- Merge to Review -->
+  <line x1="230" y1="965" x2="230" y2="985" stroke="#1f2937" stroke-width="2"/>
+  <line x1="500" y1="965" x2="500" y2="985" stroke="#1f2937" stroke-width="2"/>
+  <line x1="770" y1="965" x2="770" y2="985" stroke="#1f2937" stroke-width="2"/>
+  <line x1="230" y1="985" x2="770" y2="985" stroke="#1f2937" stroke-width="2"/>
+  <line x1="500" y1="985" x2="500" y2="1008" stroke="#1f2937" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Review & Improve -->
+  <rect x="350" y="1010" width="300" height="90" rx="8" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500" y="1035" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">REVIEW &amp; IMPROVE</text>
+  <text x="370" y="1057" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Document Incident</text>
+  <text x="370" y="1074" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Update Security Rules</text>
+  <text x="370" y="1091" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#374151">• Prevent Recurrence</text>
+
+  <text x="500" y="1113" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#4b5563">Arrows follow the sequence of the incident-response workflow, from detection through recovery.</text>
+</svg>
